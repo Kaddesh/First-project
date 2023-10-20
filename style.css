@@ -4,7 +4,6 @@
 
 body {
 	font-family: Arial, Helvetica, sans-serif;
-	box-sizing: border-box;
 	background-color: hsl(204, 43%, 93%);
 	display: flex;
 	justify-content: center;
